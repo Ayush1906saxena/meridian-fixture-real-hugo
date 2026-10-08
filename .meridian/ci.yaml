@@ -1,0 +1,4 @@
+{
+  "pack": "go",
+  "test": "go test ./tpl/partials/..."
+}
